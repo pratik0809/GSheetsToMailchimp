@@ -12,10 +12,10 @@ Pratik | Sampat | pratiks0809@gmail.com | 5 | 2 | 3 | 0
  
 
 ## Resources
-*Adopted from [acarrilo's form submission project](https://gist.github.com/acarrillo/5772508) 
-*[Mailchimp API Documentation](http://developer.mailchimp.com/documentation/mailchimp/)
-*[Google Developer Apps Script Documentation](https://developers.google.com/apps-script/)
-*[MD5 Hash Function in Apps Script](http://stackoverflow.com/a/27933459)
-*[Batch Operations and PUT in API v3.0](http://devs.mailchimp.com/blog/batch-operations-and-put-in-api-v3-0/)
-*[Testing trigger functions in Apps Script](http://stackoverflow.com/a/16089067)
+* Adopted from [acarrilo's form submission project](https://gist.github.com/acarrillo/5772508) 
+* [Mailchimp API Documentation](http://developer.mailchimp.com/documentation/mailchimp/)
+* [Google Developer Apps Script Documentation](https://developers.google.com/apps-script/)
+* [MD5 Hash Function in Apps Script](http://stackoverflow.com/a/27933459)
+* [Batch Operations and PUT in API v3.0](http://devs.mailchimp.com/blog/batch-operations-and-put-in-api-v3-0/)
+* [Testing trigger functions in Apps Script](http://stackoverflow.com/a/16089067)
 
